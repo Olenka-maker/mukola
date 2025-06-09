@@ -1,0 +1,55 @@
+body {
+    font-family: sans-serif;
+    background-color: rgb(135, 135, 135);
+    color: white;
+    margin: 0;
+    text-align: center;
+}
+
+header {
+    display: flex;
+    justify-content: center;
+}
+header img{
+    margin-bottom: 25px;
+}
+
+.button {
+    background-color: white;
+    color:rgb(135, 135, 135) ;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+nav {
+    margin-top: 20px;
+}
+
+.nav-link {
+    text-decoration: none;
+    color: white;
+}
+
+
+p {
+    font-size: 20px;
+}
+
+
+
+.article-but {
+    background-color: white;
+    color:rgb(135, 135, 135) ;
+    text-decoration: none;
+    padding: 8px;
+    border-radius: 8px;
+    margin-bottom: 20px;
+}
+
+
+main img{
+    border:10px double white;
+    margin-top: 20px;
+}
